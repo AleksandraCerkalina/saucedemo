@@ -40,7 +40,7 @@ public class LoginPage {
         return errorField;
     }
 
-    //////////////HomeWork_End//////////////////
+    //////////////HomeWork_Finish//////////////////
 
 
     public void authorize(String username, String password) {
