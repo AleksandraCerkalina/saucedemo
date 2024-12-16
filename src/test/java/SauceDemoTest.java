@@ -93,7 +93,7 @@ public class SauceDemoTest {
                 .isEqualTo("Epic sadface: Username is required");
     }
 
-    //////////////HomeWork_Finish//////////////////
+    //////////////HomeWork_End//////////////////
 
     @Test
     public void sauceDemoAddItemToTheCartTest() {
