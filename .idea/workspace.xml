@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5464cb7b-e4f0-41e2-b2f0-17dd4f8b7b27" name="Changes" comment="[master]: HomeWorkLoginPage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SauceDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauceDemoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AleksandraCerkalina"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AleksandraCerkalina/saucedemo.git",
+    "accountId": "4746da93-ce28-44de-a43c-360a2448576f"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -41,30 +51,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.SauceDemoTest.executor": "Run",
-    "TestNG.SauceDemoTest.openSauceDemoPageTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoAddItemToTheCartTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginBoxTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmtyTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginEmptyPassOkTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginNokPassNokTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginOkPassEmptyTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginOkPassNokTest.executor": "Run",
-    "TestNG.SauceDemoTest.sauceDemoLoginTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.SauceDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.openSauceDemoPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoAddItemToTheCartTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmtyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginEmptyPassOkTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginNokPassNokTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginOkPassEmptyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginOkPassNokTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SauceDemoTest.sauceDemoLoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest">
     <configuration name="SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="saucedemo_automation" />
@@ -169,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734354959797</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[master]: HomeWorkLoginPage">
+      <option name="closed" value="true" />
+      <created>1734542210880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734542210880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[master]: HomeWorkLoginPage">
+      <option name="closed" value="true" />
+      <created>1734542447788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734542447788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
