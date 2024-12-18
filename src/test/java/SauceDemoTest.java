@@ -60,35 +60,35 @@ public class SauceDemoTest {
     //////////////HomeWork_Start//////////////////
     @Test
     public void sauceDemoLoginOkPassEmptyTest() {
-        loginPage.authorize(config.getString("username"), config.getString("password"));
+        loginPage.authorize("standard_user", "");
         Assertions.assertThat(loginPage.getErrorField().getText())
                 .isEqualTo("Epic sadface: Password is required");
     }
 
     @Test
     public void sauceDemoLoginNokPassNokTest() {
-        loginPage.authorize(config.getString("username"), config.getString("password"));
+        loginPage.authorize("login", "1234");
         Assertions.assertThat(loginPage.getErrorField().getText())
                 .isEqualTo("Epic sadface: Username and password do not match any user in this service");
     }
 
     @Test
     public void sauceDemoLoginEmptyPassOkTest() {
-        loginPage.authorize(config.getString("username"), config.getString("password"));
+        loginPage.authorize("", "secret_sauce");
         Assertions.assertThat(loginPage.getErrorField().getText())
                 .isEqualTo("Epic sadface: Username is required");
     }
 
     @Test
     public void sauceDemoLoginOkPassNokTest() {
-        loginPage.authorize(config.getString("username"), config.getString("password"));
+        loginPage.authorize("standard_user", "1234");
         Assertions.assertThat(loginPage.getErrorField().getText())
                 .isEqualTo("Epic sadface: Username and password do not match any user in this service");
     }
 
     @Test
-    public void sauceDemoLoginEmptyPassEmtyTest() {
-        loginPage.authorize(config.getString("username"), config.getString("password"));
+    public void sauceDemoLoginEmptyPassEmptyTest() {
+        loginPage.authorize("", "");
         Assertions.assertThat(loginPage.getErrorField().getText())
                 .isEqualTo("Epic sadface: Username is required");
     }

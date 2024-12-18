@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5464cb7b-e4f0-41e2-b2f0-17dd4f8b7b27" name="Changes" comment="[master]: HomeWorkLoginPage">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/page_object/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/page_object/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/page_object/HeaderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/page_object/InventoryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/utils/Helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/come/saucedemo/page_object/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/come/saucedemo/page_object/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SauceDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauceDemoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +50,7 @@
     "TestNG.SauceDemoTest.openSauceDemoPageTest.executor": "Run",
     "TestNG.SauceDemoTest.sauceDemoAddItemToTheCartTest.executor": "Run",
     "TestNG.SauceDemoTest.sauceDemoLoginBoxTest.executor": "Run",
+    "TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest.executor": "Run",
     "TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmtyTest.executor": "Run",
     "TestNG.SauceDemoTest.sauceDemoLoginEmptyPassOkTest.executor": "Run",
     "TestNG.SauceDemoTest.sauceDemoLoginNokPassNokTest.executor": "Run",
@@ -71,12 +65,12 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmtyTest">
-    <configuration name="SauceDemoTest.sauceDemoLoginEmptyPassEmtyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest">
+    <configuration name="SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="saucedemo_automation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SauceDemoTest" />
-      <option name="METHOD_NAME" value="sauceDemoLoginEmptyPassEmtyTest" />
+      <option name="METHOD_NAME" value="sauceDemoLoginEmptyPassEmptyTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,7 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmtyTest" />
+        <item itemvalue="TestNG.SauceDemoTest.sauceDemoLoginEmptyPassEmptyTest" />
         <item itemvalue="TestNG.SauceDemoTest.sauceDemoLoginOkPassNokTest" />
         <item itemvalue="TestNG.SauceDemoTest.sauceDemoLoginEmptyPassOkTest" />
         <item itemvalue="TestNG.SauceDemoTest.sauceDemoLoginNokPassNokTest" />
@@ -167,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734353800208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[master]: HomeWorkLoginPage">
+      <option name="closed" value="true" />
+      <created>1734354959797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734354959797</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
